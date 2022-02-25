@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hola mi nombre es MegaT
+Estoy muy cansado.
+
+### Hi, I'm MegaT
+I'm very tired.
+
+- 🔭 I’m currently working on Wrapper 2
+- 🌱 I’m currently learning C++
+- 🤔 I Really want to learn how 2 draw!!
+- 📫 How to reach me: https://www.mega-team.ml/contact.php
+- 😄 Pronouns: He/They
 
 <!--
 **MegaTeam89/MegaTeam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
