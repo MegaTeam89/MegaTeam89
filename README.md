@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 -->
 ### Stats so you can see how much of a life I have:
 ![MegaT's GitHub stats](https://github-readme-stats.vercel.app/api?username=megateam89&theme=cobalt2&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megateam89&langs_count=8&theme=cobalt2&show_icons=true)
 
 ### Programming Languages :
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
