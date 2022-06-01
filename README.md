@@ -6,7 +6,7 @@ I'm very tired.
 
 - 🔭 I’m currently working on Wrapper 2
 - 🌱 I’m currently learning C++
-- 🤔 I Really want to learn how 2 draw!!
+- 😊 I know how to draw now!
 - 📫 How to reach me: https://www.mega-team.ml/contact.php
 - 😄 Pronouns: He/They
 
