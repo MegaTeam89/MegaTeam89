@@ -4,10 +4,10 @@ Estoy muy cansado.
 ### Hi, I'm MegaT
 I'm very tired.
 
-- 🔭 I’m currently working on Wrapper 2
+- 🔭 I’m currently working on finishing FlashThemes
 - 🌱 I’m currently learning C++
 - 😊 I know how to draw now!
-- 📫 How to reach me: https://www.mega-team.ml/contact.php
+- 📫 How to reach me: https://www.mega-team.net/
 - 😄 Pronouns: He/They
 
 <!--
