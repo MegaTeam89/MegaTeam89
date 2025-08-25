@@ -1,14 +1,8 @@
-### Hola mi nombre es MegaT
-Estoy muy cansado.
-
 ### Hi, I'm MegaT
-I'm very tired.
+I'm a lot of things right now actually I program and draw I think
 
-- 🔭 I’m currently working on finishing FlashThemes
-- 🌱 I’m currently learning C++
-- 😊 I know how to draw now!
-- 📫 How to reach me: https://www.mega-team.net/
-- 😄 Pronouns: He/They
+- 🔭 I’m currently working on FlashThemes Updates
+- 😄 Pronouns: She/He/They
 
 <!--
 **MegaTeam89/MegaTeam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Stats so you can see how much of a life I have:
+### These are statsssss
 ![MegaT's GitHub stats](https://github-readme-stats.vercel.app/api?username=megateam89&theme=cobalt2&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megateam89&langs_count=8&theme=cobalt2&show_icons=true)
 
