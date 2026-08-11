@@ -1,11 +1,10 @@
 ### Hi, I'm MegaT
 I'm a lot of things right now actually I program and draw I think
 
-- 🔭 I’m currently working on FlashThemes Updates
+- 🔭 Ruffle contributing bay-beee
 - 😄 Pronouns: She/They
 
 <!--
-**MegaTeam89/MegaTeam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
